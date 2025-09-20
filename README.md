@@ -76,3 +76,4 @@
 | **How to update?**    | Auto-updates with every new Fortnite patch.             |
 | **Unlock skins?**     | Yes, all Fortnite skins & emotes unlocked instantly.    |
 | **Support?**          | Included via private loader community.                  |
+ 
